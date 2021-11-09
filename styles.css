@@ -1,0 +1,18 @@
+<style>
+ h1 {font-size: 50px; background: -webkit-linear-gradient(#1e66de,#d9dfea);
+ background-color: #1e66de; webkit-background-clip: text;
+ -webkit-text-fill-color: transparent; font-family:arial,sans-serif,ubuntu;
+ line-height: 80%;}
+h2,h3,h4,h5,h6 {text-align: center; color: red; font-family:arial,sans-serif,ubuntu;}
+p {text-align: center; color: rgb(137,128,126); font-family: arial,sans-serif,ubuntu;}
+div {text-align: center;}
+.left {float: left; width: 25%;}
+.right{float: right; width: 25%;}
+.main {float: left; width: 50%;}
+.all {float: left; width: 100%;}
+.allleft {float: left; width:45%;}
+.allright {float: right; width:45%;}
+.cleft {float:right; width:100%}
+.textwrap {float: left; margin: 10px}
+@media screen and (max-width: 800px) {.left, .main, .right { width: 100%; }
+</style>
