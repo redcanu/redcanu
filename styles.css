@@ -3,8 +3,10 @@
  background-color: #1e66de; webkit-background-clip: text;
  -webkit-text-fill-color: transparent; font-family:arial,sans-serif,ubuntu;
  line-height: 80%;}
-h2,h3,h4,h5,h6 {text-align: center; color: red; font-family:arial,sans-serif,ubuntu;}
+h2,h3,h4,h5,h6 {text-align: center; color: black; font-family:arial,sans-serif,ubuntu;}
 p {text-align: center; color: rgb(137,128,126); font-family: arial,sans-serif,ubuntu;}
+ol {text-align: center; color: rgb(137,128,126); font-family: arial,sans-serif,ubuntu;}
+ul {text-align: center; color: rgb(137,128,126); font-family: arial,sans-serif,ubuntu;}
 div {text-align: center;}
 .left {float: left; width: 25%;}
 .right{float: right; width: 25%;}
